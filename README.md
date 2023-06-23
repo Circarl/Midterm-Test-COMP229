@@ -1,3 +1,6 @@
+
+![Circarl Logo](https://imgur.com/a/XqCPWer)
+
 <h3 align="center">Midterm-test</h3>
 
 <div align="center">
@@ -33,15 +36,10 @@ npm install express mongoose
 ```
 ### Seting up Express app and Create the server file:
 
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-
 Using POSTMAN to test the API endpoints
 
 
-Explain what these tests test and why
+## *Screenshot of the POSTMAN testing:*
 
 ```
 Give an example
@@ -55,9 +53,7 @@ Explain what these tests test and why
 Give an example
 ```
 
-## 🎈 Usage <a name="usage"></a>
 
-Add notes about how to use the system.
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
