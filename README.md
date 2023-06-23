@@ -1,23 +1,20 @@
-<h3 align="center">midterm-test</h3>
+<h3 align="center">Midterm-test</h3>
 
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> Midterm Test for COMP229 - Web Application Development
     <br> 
 </p>
 
 
 
-## 🧐 About <a name = "about"></a>
+##  About <a name = "about"></a>
 
 This is midterm test for web application development course, COMP229, at Centennial College. The project is a simple web application that allows users to create, read, update, and delete (CRUD) a list of books. The project is built using Node.js, Express, and MongoDB.
 
@@ -41,9 +38,8 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## 🔧 Running the tests <a name = "tests"></a>
 
-Explain how to run the automated tests for this system.
+Using POSTMAN to test the API endpoints
 
-### Break down into end to end tests
 
 Explain what these tests test and why
 
