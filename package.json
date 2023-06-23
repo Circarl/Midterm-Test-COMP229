@@ -1,0 +1,17 @@
+{
+  "name": "midterm-test",
+  "version": "1.0.0",
+  "description": "MIDTERM TEST Gasal, Carl Kevin - 301242419",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Carl Kevin Gasal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.1",
+    "nodemon": "^2.0.22"
+  }
+}
