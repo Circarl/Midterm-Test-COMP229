@@ -1,5 +1,5 @@
 
-![Circarl Logo](https://imgur.com/a/XqCPWer)
+![Circarl Logo](https://i.imgur.com/0RSzC9j.png)
 
 <h3 align="center">Midterm-test</h3>
 
@@ -52,7 +52,6 @@ Explain what these tests test and why
 ```
 Give an example
 ```
-
 
 
 ## 🚀 Deployment <a name = "deployment"></a>
