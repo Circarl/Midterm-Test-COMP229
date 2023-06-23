@@ -1,6 +1,7 @@
 
 ![Circarl Logo](https://i.imgur.com/0RSzC9j.png)
 
+
 <h3 align="center">Midterm-test</h3>
 
 <div align="center">
@@ -12,7 +13,7 @@
 ---
 
 <p align="center"> Midterm Test for COMP229 - Web Application Development
-    <br> 
+<br>🎥 ▶️ check out the video on youtube: <br>https://youtu.be/OKfO34KvWd4    <br> 
 </p>
 
 
