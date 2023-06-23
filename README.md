@@ -39,11 +39,21 @@ npm install express mongoose
 Using POSTMAN to test the API endpoints
 
 
-## *Screenshot of the POSTMAN testing:*
+## ***Screenshot of the POSTMAN testing:***
+*Getting student ID by their unique ID using the **GET** method*
+![Circarl Logo](https://github.com/Circarl/Midterm-Test-COMP229/blob/main/Screenshots/Screenshot%202023-06-23%20003351.png?raw=true)
 
-```
-Give an example
-```
+*Getting all the students name using the **GET** method*
+![Circarl Logo](https://github.com/Circarl/Midterm-Test-COMP229/blob/main/Screenshots/Screenshot%202023-06-23%20003439.png?raw=true)
+
+*Using **POST** method to add a student and generates its ID automatically*
+![Circarl Logo](https://github.com/Circarl/Midterm-Test-COMP229/blob/main/Screenshots/Screenshot%202023-06-23%20003645.png?raw=true)
+
+*Deleting the student's name by their ID using the **DELETE** method*
+![Circarl Logo](https://github.com/Circarl/Midterm-Test-COMP229/blob/main/Screenshots/Screenshot%202023-06-23%20003724.png?raw=true)
+
+*Updating the student's name by their ID using the **PUT** method*
+![Circarl Logo](https://github.com/Circarl/Midterm-Test-COMP229/blob/main/Screenshots/Screenshot%202023-06-23%20003919.png?raw=true)
 
 ### And coding style tests
 
